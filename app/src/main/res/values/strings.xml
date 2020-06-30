@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Commun -->
+    <string name="app_name">Evénements et navigation</string>
+
+    <!-- main -->
+    <string name="main_bouton_lancer">Lancer</string>
+    <string name="main_envoyer">Envoyer à</string>
+
+    <!-- Saisie -->
+    <string name="saisie_bouton_valider">Valider</string>
+
+</resources>
